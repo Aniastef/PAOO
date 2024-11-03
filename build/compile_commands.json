@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/anias/Desktop/Teme/PAOO/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\PAOO.dir\\main.cpp.obj -c C:\\Users\\anias\\Desktop\\Teme\\PAOO\\main.cpp",
+  "file": "C:/Users/anias/Desktop/Teme/PAOO/main.cpp",
+  "output": "CMakeFiles/PAOO.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/anias/Desktop/Teme/PAOO/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\PAOO.dir\\Student.cpp.obj -c C:\\Users\\anias\\Desktop\\Teme\\PAOO\\Student.cpp",
+  "file": "C:/Users/anias/Desktop/Teme/PAOO/Student.cpp",
+  "output": "CMakeFiles/PAOO.dir/Student.cpp.obj"
+}
+]
