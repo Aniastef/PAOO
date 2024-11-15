@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\PAOO.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\PAOO.dir/objects.a @CMakeFiles\PAOO.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PAOO.dir/objects.a -Wl,--no-whole-archive -o PAOO.exe -Wl,--out-implib,libPAOO.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PAOO.dir\linkLibs.rsp

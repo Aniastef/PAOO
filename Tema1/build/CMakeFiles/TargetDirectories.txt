@@ -1,0 +1,8 @@
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/Tema1.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/Experimental.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/Nightly.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/Continuous.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anias/Desktop/Teme/PAOO/Tema1/build/CMakeFiles/ZERO_CHECK.dir
