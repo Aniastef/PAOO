@@ -1,0 +1,8 @@
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/Tema3.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/Experimental.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/Nightly.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/Continuous.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/stef/Desktop/PAOO/Tema3/build/CMakeFiles/ZERO_CHECK.dir
